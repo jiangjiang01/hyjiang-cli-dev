@@ -1,0 +1,22 @@
+{
+  "name": "@hyjiang-cli-dev/core",
+  "version": "1.0.0",
+  "description": "hyjiang-cli-dev core",
+  "author": "jiangjiang <12463gguser@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "dependencies": {
+    "@hyjiang-cli-dev/utils": "^1.0.0"
+  }
+}
