@@ -22,7 +22,7 @@ importers:
   packages/core:
     dependencies:
       '@hyjiang-cli-dev/utils':
-        specifier: ^1.0.0
+        specifier: ^1.0.1
         version: link:../utils
 
   packages/utils: {}

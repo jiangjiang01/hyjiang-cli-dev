@@ -1,6 +1,6 @@
 {
   "name": "@hyjiang-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hyjiang-cli-dev core",
   "author": "jiangjiang <12463gguser@gmail.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: no test specified\""
   },
   "dependencies": {
-    "@hyjiang-cli-dev/utils": "^1.0.0"
+    "@hyjiang-cli-dev/utils": "^1.0.1"
   }
 }
