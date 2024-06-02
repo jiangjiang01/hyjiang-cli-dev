@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "@hyjiang-cli-dev/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "1106f0a7bc71c41d13a3ab3d52a8f525a3244509"
 }
